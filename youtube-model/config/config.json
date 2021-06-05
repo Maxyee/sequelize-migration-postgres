@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": null,
+    "database": "youtube_channel",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "julhas",
+    "password": null,
+    "database": "youtube_channel",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "julhas",
+    "password": null,
+    "database": "youtube_channel",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
